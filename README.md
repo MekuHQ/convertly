@@ -1,6 +1,6 @@
-# Convertly – Free SaaS Landing Page Template
+# Convertly – Free React SaaS Landing Page Template
 
-Convertly is a free, open-source, and conversion-focused **SaaS landing page template** built with [**Meku – AI web app builder**](https://meku.dev/).
+Convertly is a free, open-source, and conversion-focused **SaaS landing page template** built with [**Meku – AI web app builder**](https://meku.dev/). Based on React.js and Tailwind CSS v4.
 
 It’s designed to help startups, SaaS founders, and developers launch fast with a modern, responsive, and performance-optimized landing page.  
 
